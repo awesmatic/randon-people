@@ -1,0 +1,14 @@
+.container {
+  width: 80%;
+  margin: auto;
+  margin-top: 5rem;
+}
+button {
+  cursor: pointer;
+  height: 3rem;
+  width: 7rem;
+}
+.details {
+  border: 1px solid black;
+  margin-top: 2rem;
+}

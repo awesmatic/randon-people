@@ -1,0 +1,11 @@
+.details {
+  display: flex;
+  justify-content: space-between;
+  border: 1px solid black;
+}
+button {
+  height: 4rem;
+}
+button:hover {
+  background-color: aqua;
+}
